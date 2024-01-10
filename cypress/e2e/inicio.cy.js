@@ -7,4 +7,4 @@ describe('Página inicial', () => {
       'Experimente mais liberdade no controle da sua vida financeira. Crie sua conta com a gente!'
     );
   });
-})
+});
